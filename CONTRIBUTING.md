@@ -2,20 +2,38 @@
 
 # 贡献指南
 
-HLJU-SCST 是一个由一群热爱分享的人驱动的开源组织，对 HLJU-SCST 的贡献应符合我们的[行为准则](./CODE_OF_CONDUCT.md)，我们感谢所有对 HLJU-SCST 作出贡献的人。
+HLJU-SCST 是一个由一群热爱分享的人驱动的开源组织，对 HLJU-SCST 的贡献应符合[行为准则](./CODE_OF_CONDUCT.md)，感谢所有对 HLJU-SCST 作出贡献的人。
 
-感谢您的贡献，您可以通过以下方式参与本项目。
+感谢你的贡献，你可以通过以下方式参与本项目。
 
-- 贡献资源
-- 勘误
+- 直接提交 PR
+- 提交 Issue
+- 领取 Issue
 
-## 贡献资源
+### 直接提交 PR
 
-目录和文件名应使用合理的命名来确保易于理解和使用，同时，所贡献的资源应符合[合规性资源](./COMPLIANCE_RESOURCES.md)。
+如果你对阅读到的内容有任何修改建议，并且已经产出了修改后的内容，你可以通过 「Fork + PR」 或者 「轻量级 PR」 的方式提交内容进行贡献。你的 PR 会在通过编写小组和审校专家团队审核后合并进最终内容中。
 
-## 勘误
+### 提交 Issue
 
-当您发现任何错误以及不合规的资源时，您都可以提交勘误。
+如果你想要增加某些内容，但又不知道从何下手，可以向我们提交 Issue，Issue 中对你想要的内容进行详细地描述。对其感兴趣的同学会对 Issue 进行认领，完成内容的编写。
+
+### 领取 Issue
+
+- 在 Issue 页面中，会有官方和贡献者提出的各种需求，从中选择你擅长的内容进行评论认领，由编写组确认后即可开始编写。
+- 评论内容为 「预计完成时间+备注」 ，如 「预计 9 月 18 日完成部分内容」 ，你就可以开始编写工作。
+- 编写完成后通过 「Fork + PR」 的方式提交内容进行贡献。你的 PR 会在通过编写小组和审校专家团队审核后合并进最终内容中。
+
+## 格式
+
+文章格式使用 [Markdown](https://commonmark.org/help/)
+
+## 内容
+
+- 撰写的内容需符合该部分主题。
+- 不求文风华丽，只需结构清晰，表述简洁，易读易懂。
+- 欢迎原创内容和新解读、新观点，不欢迎大篇幅摘抄和生搬硬套。
+- 涉及参考资料的内容需要符合[合规性资源](./COMPLIANCE_RESOURCES.md)。
 
 ## git操作
 
@@ -70,61 +88,3 @@ HLJU-SCST 是一个由一群热爱分享的人驱动的开源组织，对 HLJU-S
  - 上传文件到已有文件夹：打开对应文件夹，点击绿色Download按钮旁的upload，上传你的文件。
  - 上传文件到新文件夹：打开任意文件夹，点击绿色Download按钮旁的upload，把浏览器地址栏中文件夹名称改为你想要新建的文件夹名称，然后回车，上传你的文件。
 3. 提交 PR，上传完文件到个人仓库之后，点击 Pull Request 即可。请留意一下项目的文件组织。
-
-## Commit规范
-
-> 详细内容请参考：[Commit规范](https://www.conventionalcommits.org/en/v1.0.0/)
-
-### 格式
-
-> Commit message 包含三个部分：header，body和footer，中间用空行隔开。
-
-```
-<type>[optional scope]: <description>
-// 空行
-[optional body]
-// 空行
-[optional footer(s)]
-```
-
-#### Header
-
-Header只有一行，包含三个字段：`type`（必需），`scope`（可选），description（必需）
-
-`type`的种类包括：
-
-| 类型       | 说明                                                       |
-|----------|----------------------------------------------------------|
-| refactor | 勘误 |
-| docs     | 文档类的更新等                                   |
-
-`description`是commit的简短描述，规定不超过72个字符
-
-#### Body
-
-> Body是对本次commit的详细描述，可以分成多行
->
-> 注意点：
->
-> - 使用第一人称现在时，比如使用change而不是changed或changes。
-> - 详细描述变动的动机，以及前后行为的对比
-
-#### Footer
-
-> 关闭Issue，如果当前 commit 针对某个issue，那么可以在 Footer 部分关闭这个 issue
-
-```
-Closes #1234,#2345
-```
-
-#### Revert
-
-> 除了 Header、Body 和 Footer 这 3 个部分，Commit Message 还有一种特殊情况：如果当前 commit 还原了先前的 commit，则应以
-> revert: 开头，后跟还原的 commit 的 Header。而且，在 Body 中必须写成 This reverts commit ，其中 hash 是要还原的 commit 的 SHA
-> 标识。例如：
-
-```
-revert: docs: upload xxx
-
-This reverts commit 079360c7cfc830ea8a6e13f4c8b8114febc9b48a.
-```
