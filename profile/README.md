@@ -1,1 +1,1 @@
-✨[School of Computer Science and Technology, HLJU](../README.md)✨
+✨[School of Computer Science and Technology, HLJU](/README.md)✨
