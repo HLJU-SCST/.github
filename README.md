@@ -109,6 +109,32 @@ TODO
 
 我们欢迎贡献者和公众监督我们的分享行为。如果发现任何资料违反许可协议，请立即通知我们，以便我们及时改正错误。
 
+# 相关链接
+
+- [CMU Database Group](https://github.com/cmu-db)
+- [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)[![Stars](https://img.shields.io/github/stars/QSCTech/zju-icicles.svg?label=Stars)](https://github.com/QSCTech/zju-icicles/stargazers)
+- [贵校课程资料民间整理](https://github.com/lib-pku/libpku)[![Stars](https://img.shields.io/github/stars/lib-pku/libpku.svg?label=Stars)](https://github.com/lib-pku/libpku/stargazers)
+- [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)[![Stars](https://img.shields.io/github/stars/PKUanonym/REKCARC-TSC-UHT.svg?label=Stars)](https://github.com/PKUanonym/REKCARC-TSC-UHT/stargazers)
+- [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)[![Stars](https://img.shields.io/github/stars/USTC-Resource/USTC-Course.svg?label=Stars)](https://github.com/USTC-Resource/USTC-Course/stargazers)
+- [华中科技大学研究生课程资料](https://github.com/lyandut/HUST-Invictus)[![Stars](https://img.shields.io/github/stars/USTC-Resource/USTC-Course.svg?label=Stars)](https://github.com/lyandut/HUST-Invictus/stargazers)
+- [上海交通大学课程资料分享](https://github.com/kxxwz/SJTU-Courses)[![Stars](https://img.shields.io/github/stars/kxxwz/SJTU-Courses.svg?label=Stars)](https://github.com/kxxwz/SJTU-Courses/stargazers)
+- [上海交通大学 LaTeX 论文模板](https://github.com/sjtug/SJTUThesis)[![Stars](https://img.shields.io/github/stars/sjtug/SJTUThesis.svg?label=Stars)](https://github.com/sjtug/SJTUThesis/stargazers)
+- [北大计算机课程大作业](https://github.com/tongtzeho/PKUCourse)[![Stars](https://img.shields.io/github/stars/tongtzeho/PKUCourse.svg?label=Stars)](https://github.com/tongtzeho/PKUCourse/stargazers)
+- [清华大学计算机系考研攻略](https://github.com/stellarkey/912_project)[![Stars](https://img.shields.io/github/stars/stellarkey/912_project.svg?label=Stars)](https://github.com/stellarkey/912_project/stargazers)
+- [2023南京大学计算机科学与技术845考研公共课和专业课资料](https://github.com/JackeyLea/NJUCS)[![Stars](https://img.shields.io/github/stars/JackeyLea/NJUCS.svg?label=Stars)](https://github.com/JackeyLea/NJUCS/stargazers)
+- [电子科技大学课程资料共享平台](https://github.com/Xovee/uestc-course)[![Stars](https://img.shields.io/github/stars/Xovee/uestc-course.svg?label=Stars)](https://github.com/Xovee/uestc-course/stargazers)
+- [东南大学课程共享计划](https://github.com/zjdx1998/seucourseshare)[![Stars](https://img.shields.io/github/stars/zjdx1998/seucourseshare.svg?label=Stars)](https://github.com/zjdx1998/seucourseshare/stargazers)
+- [北京航空航天大学(北航)课程作业资料共享计划](https://github.com/TheBloodthirster/BUAA_Course_Sharing)[![Stars](https://img.shields.io/github/stars/TheBloodthirster/BUAA_Course_Sharing.svg?label=Stars)](https://github.com/TheBloodthirster/BUAA_Course_Sharing/stargazers)
+- [中国科学技术大学计算机学院课程资源](https://github.com/15172658790/Blog)[![Stars](https://img.shields.io/github/stars/15172658790/Blog.svg?label=Stars)](https://github.com/15172658790/Blog/stargazers)
+- [南京邮电大学通识课程历年资料](https://github.com/NJUPTFreeExams/NJUPT-General-Free-Exams)[![Stars](https://img.shields.io/github/stars/NJUPTFreeExams/NJUPT-General-Free-Exams.svg?label=Stars)](https://github.com/NJUPTFreeExams/NJUPT-General-Free-Exams/stargazers)
+- [上海交通大学计算机系本科作业参考](https://github.com/SJTU-CSE/awesome-cs)[![Stars](https://img.shields.io/github/stars/SJTU-CSE/awesome-cs.svg?label=Stars)](https://github.com/SJTU-CSE/awesome-cs/stargazers)
+- [广东工业大学计算机学院课程攻略](https://github.com/brenner8023/gdut-course)[![Stars](https://img.shields.io/github/stars/brenner8023/gdut-course.svg?label=Stars)](https://github.com/brenner8023/gdut-course/stargazers)
+- [南京大学课程复习资料](https://github.com/idealclover/NJU-Review-Materials)[![Stars](https://img.shields.io/github/stars/idealclover/NJU-Review-Materials.svg?label=Stars)](https://github.com/idealclover/NJU-Review-Materials/stargazers)
+- [华中科技大学计算机科学与技术学院学习资料以及实验资料](https://github.com/AlexFanw/HUSTER-CS)[![Stars](https://img.shields.io/github/stars/AlexFanw/HUSTER-CS.svg?label=Stars)](https://github.com/AlexFanw/HUSTER-CS/stargazers)
+- [天津大学课程共享计划](https://github.com/superpung/TJU-CourseSharing)[![Stars](https://img.shields.io/github/stars/superpung/TJU-CourseSharing.svg?label=Stars)](https://github.com/superpung/TJU-CourseSharing/stargazers)
+- [华东理工大学课程攻略共享计划](https://github.com/tianyilt/ecust-CourseShare)[![Stars](https://img.shields.io/github/stars/tianyilt/ecust-CourseShare.svg?label=Stars)](https://github.com/tianyilt/ecust-CourseShare/stargazers)
+- [华中科技大学人工智能与自动化学院课程资源](https://github.com/mfp0610/HUST-AIA-Courses-Resource)[![Stars](https://img.shields.io/github/stars/mfp0610/HUST-AIA-Courses-Resource.svg?label=Stars)](https://github.com/mfp0610/HUST-AIA-Courses-Resource/stargazers)
+
 # 问题
 
 问题：
